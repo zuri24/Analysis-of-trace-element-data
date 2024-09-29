@@ -1,4 +1,4 @@
-### TRace elements results####:
+### Trace elements results####:
 # Clean memory:
 rm(list = ls('all.names' = TRUE)) # Remove all objects
 graphics.off() # Remove all graphics
